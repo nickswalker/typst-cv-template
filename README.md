@@ -52,3 +52,7 @@ The settings most likely to change are at the top of `cv.typ`:
 
 * `build.sh` reorders the corner points of link areas after compiling. Without this, links that wrap across lines are only partly clickable in Preview and Safari. `./build.sh watch` skips that step.
 * The template is set in [Source Serif 4](https://github.com/adobe-fonts/source-serif), with icons from [Font Awesome 5 Free](https://fontawesome.com/v5/download). Both are distributed under the SIL Open Font License; see `fonts/`.
+
+## License
+
+The template is released under the [MIT License](LICENSE), while the bundled fonts keep their own licenses.

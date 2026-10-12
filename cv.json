@@ -1,0 +1,502 @@
+{
+ "basics": {
+  "name": "Jordan Avery",
+  "label": "Robotics Researcher",
+  "email": "jordan@example.com",
+  "website": "https://example.com",
+  "summary": "Jordan Avery is a roboticist with a Ph.D. in Computer Science from Northfield University.",
+  "profiles": [
+   {
+    "network": "GitHub",
+    "username": "your-username",
+    "url": "https://github.com/your-username"
+   },
+   {
+    "network": "ORCID",
+    "username": "0000-0000-0000-0000",
+    "url": "https://orcid.org/0000-0000-0000-0000"
+   },
+   {
+    "network": "Mastodon",
+    "url": "https://social.example.org/@javery",
+    "hidden": true
+   }
+  ]
+ },
+ "appointments": [
+  {
+   "position": "Postdoctoral Research Associate",
+   "company": "Lakeshore Institute of Technology",
+   "website": "https://lab.example.edu",
+   "startDate": "2025"
+  }
+ ],
+ "interests": "I develop and evaluate methods that let robots explain their behavior to the people who work alongside them. My work draws on machine learning, human-robot interaction and user research.",
+ "education": [
+  {
+   "institution": "Northfield University",
+   "location": "Harbor City, WA",
+   "area": "Computer Science",
+   "studyType": "Ph.D.",
+   "startDate": "2019",
+   "endDate": "2025",
+   "highlights": [
+    {
+     "description": "Advised by Morgan Castillo",
+     "link": "https://castillo.example.edu"
+    },
+    "Thesis: Legible Robot Behavior in Shared Spaces"
+   ],
+   "courses": []
+  },
+  {
+   "institution": "Northfield University",
+   "location": "Harbor City, WA",
+   "area": "Computer Science",
+   "studyType": "M.S.",
+   "startDate": "2019",
+   "endDate": "2021",
+   "courses": []
+  },
+  {
+   "institution": "Redwood State University",
+   "location": "Mesa Verde, CA",
+   "area": "Computer Science",
+   "studyType": "B.S.",
+   "startDate": "2015",
+   "endDate": "2019",
+   "gpa": "3.90/4.00",
+   "highlights": [
+    {
+     "description": "Honors College Scholar",
+     "link": "https://honors.example.edu"
+    }
+   ],
+   "courses": []
+  }
+ ],
+ "publications": [
+  {
+   "type": "thesis",
+   "name": "Legible Robot Behavior in Shared Spaces",
+   "authors": "J.\u00a0Avery",
+   "publisher": "Northfield University",
+   "releaseDate": "Mar. 2025",
+   "year": "2025",
+   "link": "https://example.com/publications/avery2025thesis/"
+  },
+  {
+   "type": "conference",
+   "name": "Asking Better Questions: Active Preference Learning for Ambiguous Tasks",
+   "authors": "R.\u00a0Okafor, J.\u00a0Avery, M.\u00a0Castillo",
+   "location": "Lisbon, Portugal",
+   "shortName": "ICAS",
+   "publisher": "Proc. 12th Int. Conf. Autonomous Systems",
+   "releaseDate": "Nov. 2026",
+   "year": "2026",
+   "link": "https://example.com/publications/okafor2026asking/"
+  },
+  {
+   "type": "conference",
+   "name": "Explaining Robot Failures to Remote Supervisors",
+   "authors": "J.\u00a0Avery, L.\u00a0Zhang, P.\u00a0Ibarra, M.\u00a0Castillo",
+   "location": "Kyoto, Japan",
+   "shortName": "HRC",
+   "publisher": "Proc. Int. Conf. Human-Robot Collaboration",
+   "releaseDate": "Aug. 2025",
+   "year": "2025",
+   "link": "https://example.com/publications/avery2025explaining/"
+  },
+  {
+   "type": "conference",
+   "name": "Shared Control for Teleoperation in Cluttered Environments",
+   "authors": "J.\u00a0Avery*, S.\u00a0Lindqvist*, T.\u00a0Nakamura, M.\u00a0Castillo",
+   "location": "Toronto, Canada",
+   "publisher": "Proc. Int. Conf. Intelligent Machines",
+   "releaseDate": "Oct. 2023",
+   "year": "2023",
+   "link": "https://example.com/publications/avery2023shared/"
+  },
+  {
+   "type": "conference",
+   "name": "How People Interpret a Robot That Wanders Off Task",
+   "authors": "J.\u00a0Avery, D.\u00a0Mbeki, E.\u00a0Halvorsen, M.\u00a0Castillo",
+   "location": "Cambridge, UK",
+   "shortName": "HRC",
+   "publisher": "Proc. Int. Conf. Human-Robot Collaboration",
+   "releaseDate": "Mar. 2021",
+   "year": "2021",
+   "link": "https://example.com/publications/avery2021wanders/"
+  },
+  {
+   "type": "working",
+   "name": "A Few Words Are Enough: Language-Guided Policy Synthesis",
+   "authors": "H.\u00a0Petrov, A.\u00a0R.\u00a0Desai, J.\u00a0Avery, M.\u00a0Castillo",
+   "publisher": "arXiv",
+   "eprint": "0000.00000",
+   "releaseDate": "Jul. 2026",
+   "year": "2026",
+   "link": "https://example.com/publications/petrov2026words/"
+  },
+  {
+   "type": "journal",
+   "name": "Improving Language Understanding through Human-Robot Dialog",
+   "authors": "C.\u00a0Marchetti, J.\u00a0Avery, K.\u00a0Osei, B.\u00a0T.\u00a0Ramos",
+   "shortName": "JMI",
+   "publisher": "Journal of Machine Intelligence",
+   "releaseDate": "Feb. 2022",
+   "year": "2022",
+   "link": "https://example.com/publications/marchetti2022dialog/"
+  },
+  {
+   "type": "patent",
+   "name": "Conversation analysis platform",
+   "authors": "F.\u00a0Dubois, J.\u00a0P.\u00a0Avery",
+   "publisher": "US00000000",
+   "releaseDate": "Dec. 2023",
+   "year": "2023",
+   "link": "https://example.com/publications/dubois2023conversation/"
+  },
+  {
+   "type": "workshop",
+   "name": "Personalizing Shared Autonomy with Learned Priors",
+   "authors": "J.\u00a0Avery, S.\u00a0Lindqvist",
+   "location": "Toronto, Canada",
+   "publisher": "Workshop Assistive Autonomy, Int. Conf. Intelligent Machines",
+   "releaseDate": "Oct. 2023",
+   "year": "2023",
+   "link": "https://example.com/publications/avery2023personalizing/"
+  },
+  {
+   "type": "symposium",
+   "name": "Design Goals for Planning in General-Purpose Service Robots",
+   "authors": "J.\u00a0Avery, G.\u00a0Whitfield, C.\u00a0Marchetti",
+   "location": "Arlington, VA, USA",
+   "publisher": "Symp. Planning for Everyday Robots",
+   "releaseDate": "Nov. 2020",
+   "year": "2020",
+   "link": "https://example.com/publications/avery2020design/"
+  },
+  {
+   "type": "periodical",
+   "name": "What Delivery Robots Teach Us About Sidewalks",
+   "authors": "J.\u00a0Avery, R.\u00a0Okafor",
+   "publisher": "Example Magazine",
+   "releaseDate": "Jul. 2022",
+   "year": "2022",
+   "link": "https://example.com/publications/avery2022sidewalks/"
+  }
+ ],
+ "research_experience": [
+  {
+   "company": "Lakeshore Institute of Technology",
+   "position": "Postdoctoral Research Associate",
+   "website": "https://lab.example.edu",
+   "startDate": "2025",
+   "highlights": [
+    "Improving methods for learned policies to communicate their uncertainty [c4]"
+   ]
+  },
+  {
+   "company": "Northfield University",
+   "position": "Graduate Research Assistant",
+   "website": "https://robotics.example.edu",
+   "startDate": "2019",
+   "endDate": "2025",
+   "highlights": [
+    "Developed and evaluated explanation methods for remotely supervised robots [c2, c3]",
+    {
+     "description": "Released an open-source toolkit for shared-control teleoperation",
+     "link": "https://code.example.org/shared-control"
+    }
+   ]
+  },
+  {
+   "company": "Example Robotics",
+   "position": "Research Intern",
+   "website": "https://robotics.example.com",
+   "date": "2022 Su.",
+   "highlights": [
+    "Prototyped a failure-recovery interface for warehouse manipulators"
+   ]
+  }
+ ],
+ "grants": [
+  {
+   "name": "Documenting Public Art on the Northfield Campus",
+   "awarder": "Harbor City Arts Council",
+   "type": "Special Projects Grant",
+   "date": "2025",
+   "amount": "$9,000",
+   "role": "PI",
+   "link": "https://arts.example.org/grants"
+  },
+  {
+   "name": "A Speech Dataset of Household Robot Commands",
+   "awarder": "Service Robotics Foundation",
+   "type": "Development Grant",
+   "date": "2020",
+   "amount": "$2,000",
+   "role": "Co-PI",
+   "link": "https://foundation.example.org",
+   "summary": "Funded the collection and release of 2,000 annotated spoken commands"
+  }
+ ],
+ "teaching_experience": [
+  {
+   "company": "Northfield CS 478 (Robotics)",
+   "position": "Teaching Assistant",
+   "website": "https://courses.example.edu/cs478",
+   "date": "2021 Sp.",
+   "highlights": [
+    "Updated assignments and built the autograder used in later offerings"
+   ]
+  },
+  {
+   "company": "Northfield CS 481 (Robotics Capstone)",
+   "position": "Teaching Assistant",
+   "website": "https://courses.example.edu/cs481",
+   "date": "2020 Wi.",
+   "highlights": [
+    "Supported six student teams building mobile manipulation projects"
+   ]
+  }
+ ],
+ "mentoring": [
+  {
+   "name": "Priya Raman",
+   "role": "Undergraduate Researcher",
+   "next": "Ph.D. at Lakeshore",
+   "startDate": "2023",
+   "endDate": "2025",
+   "url": "https://priya.example.com"
+  },
+  {
+   "name": "Tom\u00e1s Herrera",
+   "role": "Masters Student",
+   "next": "Example Robotics",
+   "startDate": "2022",
+   "endDate": "2023"
+  },
+  {
+   "name": "Mei Tanaka",
+   "role": "Undergraduate Researcher",
+   "startDate": "2021",
+   "endDate": "2022"
+  },
+  {
+   "name": "Sam Okoye",
+   "role": "Highschool Intern",
+   "next": "Redwood State",
+   "startDate": "2021",
+   "endDate": "2021"
+  }
+ ],
+ "volunteer": [
+  {
+   "organization": "Harbor City Robotics Meetup",
+   "position": "Organizer",
+   "website": "https://meetup.example.org",
+   "startDate": "2022"
+  },
+  {
+   "organization": "Workshop on Assistive Autonomy, ICIM",
+   "position": "Organizer",
+   "website": "https://workshop.example.org",
+   "date": "2023"
+  },
+  {
+   "organization": "Int. Conf. Human-Robot Collaboration",
+   "shortName": "HRC",
+   "website": "https://hrc.example.org",
+   "position": "Reviewer",
+   "number": 3,
+   "date": "2026"
+  },
+  {
+   "organization": "Int. Conf. Autonomous Systems",
+   "shortName": "ICAS",
+   "website": "https://icas.example.org",
+   "position": "Reviewer",
+   "number": 2,
+   "date": "2026"
+  },
+  {
+   "organization": "Int. Conf. Human-Robot Collaboration",
+   "shortName": "HRC",
+   "website": "https://hrc.example.org",
+   "position": "Reviewer",
+   "number": 2,
+   "date": "2025"
+  },
+  {
+   "organization": "Journal of Machine Intelligence",
+   "shortName": "JMI",
+   "website": "https://jmi.example.org",
+   "position": "Reviewer",
+   "number": 1,
+   "date": "2025"
+  },
+  {
+   "organization": "Int. Conf. Human-Robot Collaboration",
+   "shortName": "HRC",
+   "website": "https://hrc.example.org",
+   "position": "Reviewer",
+   "number": 1,
+   "date": "2024"
+  },
+  {
+   "organization": "Int. Conf. Intelligent Machines",
+   "shortName": "ICIM",
+   "website": "https://icim.example.org",
+   "position": "Reviewer",
+   "number": 2,
+   "date": "2024"
+  },
+  {
+   "organization": "Int. Conf. Autonomous Systems",
+   "shortName": "ICAS",
+   "website": "https://icas.example.org",
+   "position": "Reviewer",
+   "number": 1,
+   "date": "2023"
+  },
+  {
+   "organization": "Transactions on Robot Learning",
+   "shortName": "T-RL",
+   "website": "https://trl.example.org",
+   "position": "Reviewer",
+   "number": 1,
+   "date": "2022"
+  },
+  {
+   "organization": "Int. Conf. Intelligent Machines",
+   "shortName": "ICIM",
+   "website": "https://icim.example.org",
+   "position": "Reviewer",
+   "number": 1,
+   "date": "2021"
+  },
+  {
+   "organization": "Graduate Student Mentoring Program, Northfield",
+   "position": "Peer Mentor",
+   "startDate": "2020",
+   "endDate": "2022"
+  },
+  {
+   "organization": "Ph.D. Admissions Committee, Northfield",
+   "position": "Reader",
+   "date": "2020"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Best Paper Award",
+   "date": "2025",
+   "awarder": "Int. Conf. Human-Robot Collaboration",
+   "link": "https://hrc.example.org/awards"
+  },
+  {
+   "title": "Graduate Research Fellowship",
+   "startDate": "2020",
+   "endDate": "2025",
+   "awarder": "National Research Foundation"
+  },
+  {
+   "title": "Outstanding Undergraduate Researcher Award Honorable Mention",
+   "date": "2019",
+   "awarder": "Computing Research Society",
+   "link": "https://society.example.org/awards"
+  },
+  {
+   "title": "Dean's Honored Graduate",
+   "date": "2019",
+   "awarder": "College of Engineering, Redwood State"
+  }
+ ],
+ "skills": [
+  {
+   "name": "Languages",
+   "keywords": [
+    "Python",
+    "C++",
+    "JavaScript"
+   ]
+  },
+  {
+   "name": "Frameworks & Tools",
+   "keywords": [
+    "PyTorch",
+    "ROS",
+    "Docker"
+   ]
+  },
+  {
+   "name": "Digital media",
+   "keywords": [
+    "Illustrator",
+    "InDesign",
+    "Premiere"
+   ]
+  }
+ ],
+ "presentations": [
+  {
+   "name": "How People Interpret a Robot That Wanders Off Task",
+   "venue": "Workshop on Curiosity in Human-Robot Interaction",
+   "date": "2022",
+   "location": "Virtual",
+   "authors": "J.\u00a0Avery",
+   "format": "Oral",
+   "link": "https://talks.example.org/curiosity"
+  },
+  {
+   "name": "Design Goals for Planning in General-Purpose Service Robots",
+   "venue": "Symp. on Planning for Everyday Robots",
+   "date": "2020",
+   "location": "Arlington, VA",
+   "authors": "J.\u00a0Avery",
+   "format": "Poster",
+   "note": "Best Poster"
+  }
+ ],
+ "competitions": [
+  {
+   "result": "2nd Place, Team Northfield",
+   "name": "Household Robot Challenge",
+   "date": "2021",
+   "link": "https://challenge.example.org/2021"
+  }
+ ],
+ "affiliations": [
+  {
+   "name": "Interactive Robotics Lab",
+   "institution": "Northfield University",
+   "summary": "PI: Morgan Castillo",
+   "startDate": "2019",
+   "endDate": "2025",
+   "link": "https://robotics.example.edu"
+  }
+ ],
+ "outreach": [
+  {
+   "organization": "Northfield Engineering Open House",
+   "position": "Demo Lead",
+   "website": "https://openhouse.example.edu",
+   "date": "2022",
+   "summary": "Organized and ran an exhibit demonstrating the lab's research"
+  }
+ ],
+ "meetings": [
+  {
+   "name": "Int. Conf. Human-Robot Collaboration",
+   "date": "2025",
+   "location": "Kyoto"
+  },
+  {
+   "name": "Int. Conf. Intelligent Machines",
+   "date": "2023",
+   "location": "Toronto"
+  }
+ ]
+}
